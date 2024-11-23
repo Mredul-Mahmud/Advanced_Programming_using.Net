@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit This Customer Info</h2>
+<form method="post">
+    <input type="text" name="FirstName" value="@Model.FirstName" class="form-control" placeholder="First Name" />
+    <span class="text-danger">@Html.ValidationMessage("FirstName")</span><br />
+    <input type="text" name="LastName" value="@Model.LastName" class="form-control" placeholder="Last Name" />
+    <span class="text-danger">@Html.ValidationMessage("LastName")</span><br />
+    <input type="email" name="Email" value="@Model.Email" class="form-control" placeholder="Email" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span><br />
+    <input type="text" name="Phone" value="@Model.Phone" class="form-control" placeholder="Phone" /><br />
+    <input type="text" name="Address" value="@Model.Address" class="form-control" placeholder="Address" /><br />
+    <input type="date" name="DateJoined" value="@Model.DateJoined" class="form-control" placeholder="Date Joined" />
+    <span class="text-danger">@Html.ValidationMessage("DateJoined")</span><br />
+    <input type="submit" value="Update" class="btn btn-success" /><br />
+    <a href="/Customer/list" class="btn btn-warning">Back</a>
+</form>
+

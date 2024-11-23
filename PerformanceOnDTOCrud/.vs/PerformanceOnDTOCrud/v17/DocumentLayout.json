@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\dtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\performanceondtocrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\views\\customer\\customersignup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\views\\customer\\customersignup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|c:\\users\\user\\source\\repos\\performanceondtocrud\\performanceondtocrud\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B682608F-CA56-4F2B-BA9F-1B12FEBF951D}|PerformanceOnDTOCrud\\PerformanceOnDTOCrud.csproj|solutionrelative:performanceondtocrud\\ef\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T18:19:12.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:16:18.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:15:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:16:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Signup\\Signup.cshtml",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Views\\Signup\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Signup\\Signup.cshtml",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Views\\Signup\\Signup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:19:11.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:13:41.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignupDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\SignupDTO.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\DTOs\\SignupDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\SignupDTO.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\DTOs\\SignupDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:36:46.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T14:54:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-18T20:03:23.343Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:50:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:53:41.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:54:10.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerSignup.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Customer\\CustomerSignup.cshtml",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\Views\\Customer\\CustomerSignup.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\Views\\Customer\\CustomerSignup.cshtml",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\Views\\Customer\\CustomerSignup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T20:15:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\EF\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "PerformanceOnDTOCrud\\EF\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PerformanceOnDTOCrud\\PerformanceOnDTOCrud\\EF\\Model1.Context.tt",
+              "RelativeToolTip": "PerformanceOnDTOCrud\\EF\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T20:13:19.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

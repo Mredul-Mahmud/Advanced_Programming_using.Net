@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Log-in";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+
+    <input type="email" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
+    <input type="password" name="Password" placeholder="Password" class="form-control" /><br />
+    <input type="submit" value="Create" class="btn btn-success" />
+    <a href="/department/create" class="btn btn-warning">Back</a>
+
+</form>
+
+
