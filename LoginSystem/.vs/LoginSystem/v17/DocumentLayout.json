@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\ef\\clientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\ef\\clientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\clientapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\migrations\\20241231132259_newnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\migrations\\20241231132259_newnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\bll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|solutionrelative:bll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\bll\\services\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|solutionrelative:bll\\services\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\bll\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|solutionrelative:bll\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\clientapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\repos\\interfaces\\idesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\repos\\interfaces\\idesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\repos\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\repos\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\repos\\interfaces\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\repos\\interfaces\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\repos\\implementations\\imemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\repos\\implementations\\imemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\repos\\implementations\\imdesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\repos\\implementations\\imdesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\repos\\implementations\\imdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\repos\\implementations\\imdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\ef\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\DAL.csproj|solutionrelative:classlibrary1\\ef\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9480C5A5-F39A-4E86-9F11-0E35886ECCC3}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\clientapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\loginsystem\\clientapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B1A724-0237-4821-95B2-C060E4C5CD96}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\bll\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B13E19-A75F-4802-B088-581234DD27FC}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\appsettings.json",
+              "RelativeToolTip": "ClientApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T21:10:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\Department.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EF\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\Department.cs",
+              "RelativeToolTip": "ClassLibrary1\\EF\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:01:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:12:43.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\ClientContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EF\\ClientContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\ClientContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\EF\\ClientContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:00:49.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241231132259_newnew.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Migrations\\20241231132259_newnew.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Migrations\\20241231132259_newnew.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Migrations\\20241231132259_newnew.cs",
+              "RelativeToolTip": "ClassLibrary1\\Migrations\\20241231132259_newnew.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:22:59.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesignationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Services\\DesignationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DesignationService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Services\\DesignationService.cs",
+              "RelativeToolTip": "BLL\\Services\\DesignationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:16:51.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Interfaces\\IDepartment.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\Interfaces\\IDepartment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Interfaces\\IDepartment.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\Interfaces\\IDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:08:49.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDesignation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Interfaces\\IDesignation.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\Interfaces\\IDesignation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Interfaces\\IDesignation.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\Interfaces\\IDesignation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:08:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\Interfaces\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\Interfaces\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:08:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImDesignation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Implementations\\ImDesignation.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\Implementations\\ImDesignation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Implementations\\ImDesignation.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\Implementations\\ImDesignation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:07:59.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Implementations\\ImEmployee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\Implementations\\ImEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Implementations\\ImEmployee.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\Implementations\\ImEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:07:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ClientApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:24:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BLL\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:24:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "BLL\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:24:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Implementations\\ImDepartment.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repos\\Implementations\\ImDepartment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Repos\\Implementations\\ImDepartment.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repos\\Implementations\\ImDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:07:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:24:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EF\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary1\\EF\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:01:22.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\Designation.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\EF\\Designation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\EF\\Designation.cs",
+              "RelativeToolTip": "ClassLibrary1\\EF\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:01:11.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:59:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientApp.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\ClientApp.csproj",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\ClientApp.csproj",
+              "RelativeToolTip": "ClientApp\\ClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T20:27:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClientApp\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "ClientApp\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T12:03:37.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClientApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\ClientApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "ClientApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T12:01:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\LoginSystem\\BLL\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:48:59.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

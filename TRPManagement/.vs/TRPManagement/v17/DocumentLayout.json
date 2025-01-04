@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TRPManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|c:\\users\\user\\source\\repos\\trpmanagement\\trpmanagement\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|C:\\Users\\User\\source\\repos\\TRPManagement\\trpmanagement\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DA54C2EA-D258-4B99-8429-55834ED372DA}|TRPManagement\\TRPManagement.csproj|solutionrelative:trpmanagement\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TRPManagement\\Views\\Channel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Delete.cshtml",
+              "RelativeToolTip": "TRPManagement\\Views\\Channel\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T05:00:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TRPManagement\\Views\\Channel\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Edit.cshtml",
+              "RelativeToolTip": "TRPManagement\\Views\\Channel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T05:00:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Details.cshtml",
+              "RelativeDocumentMoniker": "TRPManagement\\Views\\Channel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Details.cshtml",
+              "RelativeToolTip": "TRPManagement\\Views\\Channel\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T04:59:07.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Create.cshtml",
+              "RelativeDocumentMoniker": "TRPManagement\\Views\\Channel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\Create.cshtml",
+              "RelativeToolTip": "TRPManagement\\Views\\Channel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T04:53:12.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\List.cshtml",
+              "RelativeDocumentMoniker": "TRPManagement\\Views\\Channel\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Views\\Channel\\List.cshtml",
+              "RelativeToolTip": "TRPManagement\\Views\\Channel\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T04:52:39.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChannelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\DTOs\\ChannelDTO.cs",
+              "RelativeDocumentMoniker": "TRPManagement\\DTOs\\ChannelDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\DTOs\\ChannelDTO.cs",
+              "RelativeToolTip": "TRPManagement\\DTOs\\ChannelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:46:18.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChannelController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Controllers\\ChannelController.cs",
+              "RelativeDocumentMoniker": "TRPManagement\\Controllers\\ChannelController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\Controllers\\ChannelController.cs",
+              "RelativeToolTip": "TRPManagement\\Controllers\\ChannelController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:45:25.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "TRPManagement\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TRPManagement\\TRPManagement\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TRPManagement\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-24T04:47:06.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
