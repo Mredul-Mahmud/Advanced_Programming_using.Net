@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ApiCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BA7048-C358-462B-B711-D36F54BD4253}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\apicf\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BA7048-C358-462B-B711-D36F54BD4253}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2D8D3E-ED57-4C06-AAD3-37DEABCF5AA7}|DLL\\DLL.csproj|C:\\Users\\User\\source\\repos\\ApiCF\\dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2D8D3E-ED57-4C06-AAD3-37DEABCF5AA7}|DLL\\DLL.csproj|solutionrelative:dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\Fall24_A-master (4)\\Fall24_A-master\\IntroAPI\\IntroAPI\\Controllers\\CourseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ApiCF\\DLL\\Class1.cs",
+              "RelativeDocumentMoniker": "DLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ApiCF\\DLL\\Class1.cs",
+              "RelativeToolTip": "DLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:21:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ApiCF\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ApiCF\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:21:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Fall24_A-master (4)\\Fall24_A-master\\IntroAPI\\IntroAPI\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Fall24_A-master (4)\\Fall24_A-master\\IntroAPI\\IntroAPI\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Fall24_A-master (4)\\Fall24_A-master\\IntroAPI\\IntroAPI\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Fall24_A-master (4)\\Fall24_A-master\\IntroAPI\\IntroAPI\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:20:14.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
