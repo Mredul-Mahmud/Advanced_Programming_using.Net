@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\interfaces\\iproductfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iproductfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categoryproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\bll\\dtos\\productcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4798C78-503D-4A55-BE89-1EF782036852}|aspBackendFinalDemo\\aspBackendFinalDemo.csproj|c:\\users\\user\\onedrive\\documents\\github\\aspbackendfinaldemo\\aspbackendfinaldemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4798C78-503D-4A55-BE89-1EF782036852}|aspBackendFinalDemo\\aspBackendFinalDemo.csproj|solutionrelative:aspbackendfinaldemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4798C78-503D-4A55-BE89-1EF782036852}|aspBackendFinalDemo\\aspBackendFinalDemo.csproj|c:\\users\\user\\onedrive\\documents\\github\\aspbackendfinaldemo\\aspbackendfinaldemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4798C78-503D-4A55-BE89-1EF782036852}|aspBackendFinalDemo\\aspBackendFinalDemo.csproj|solutionrelative:aspbackendfinaldemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|c:\\users\\user\\onedrive\\documents\\github\\aspbackendfinaldemo\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64793369-397D-45B0-9BC2-9FEBBE5B7A4B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\ef\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\migrations\\202501141744398_demoinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501141744398_demoinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784AFE79-1ADE-4A24-B9B8-1672B0E09749}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductFeature.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Interfaces\\IProductFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IProductFeature.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Interfaces\\IProductFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IProductFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:07:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\EF\\Tables\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\EF\\Tables\\Category.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:23:30.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:04:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:03:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:46:31.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:57:28.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:04:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:08:22.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\CategoryProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\CategoryProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CategoryProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:12:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\ProductCategoryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\ProductCategoryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:13:04.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:07:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\EF\\Tables\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:23:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\aspBackendFinalDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "aspBackendFinalDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\aspBackendFinalDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "aspBackendFinalDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:00:49.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:09:33.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\aspBackendFinalDemo\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "aspBackendFinalDemo\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\aspBackendFinalDemo\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "aspBackendFinalDemo\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:00:32.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:09:20.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DemoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\EF\\DemoDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\DemoDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\EF\\DemoDbContext.cs",
+              "RelativeToolTip": "DAL\\EF\\DemoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:21:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202501141744398_Demoinit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Migrations\\202501141744398_Demoinit.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501141744398_Demoinit.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Migrations\\202501141744398_Demoinit.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501141744398_Demoinit.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:44:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:15:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\aspBackendFinalDemo\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:43:54.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
