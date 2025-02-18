@@ -1,77 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\apicfwith3tierarchitecture\\controllers\\medicalservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|solutionrelative:apicfwith3tierarchitecture\\controllers\\medicalservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\apicfwith3tierarchitecture\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|solutionrelative:apicfwith3tierarchitecture\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\bll\\services\\medicalserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\medicalserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\ef\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\onedrive\\documents\\github\\advanced_programming_using.net\\apicfwith3tierarchitecture\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\ef\\medicalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\medicalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\onedrive\\documents\\github\\advanced_programming_using.net\\apicfwith3tierarchitecture\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\migrations\\202501040826293_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501040826293_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\repos\\medicalservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\repos\\medicalservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\medicalservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\bll\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\bll\\services\\medicalserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\medicalserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|c:\\users\\user\\onedrive\\documents\\github\\advanced_programming_using.net\\apicfwith3tierarchitecture\\apicfwith3tierarchitecture\\controllers\\medicalservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|solutionrelative:apicfwith3tierarchitecture\\controllers\\medicalservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\apicfwith3tierarchitecture\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|solutionrelative:apicfwith3tierarchitecture\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\ef\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\ef\\medicalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\medicalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\migrations\\202501040826293_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501040826293_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\bll\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\bll\\dtos\\medicalservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\bll\\dtos\\medicalservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\medicalservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\ef\\apicf3tiercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\ef\\apicf3tiercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\apicf3tiercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\migrations\\202501040748474_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\migrations\\202501040748474_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501040748474_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\apicfwith3tierarchitecture\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\apicfwith3tierarchitecture\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7ACEC9A0-2B11-4768-AECD-1BD991A59A80}|APICFwith3TierArchitecture\\APICFwith3TierArchitecture.csproj|solutionrelative:apicfwith3tierarchitecture\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4776DC-2F3A-4ADD-852D-9945D8D853D9}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\msystemapplication\\apicfwith3tierarchitecture\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C0A6EBE-69E1-4869-B378-0C5265DDA40C}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,132 +90,80 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MedicalServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
-              "RelativeDocumentMoniker": "APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
-              "RelativeToolTip": "APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAABCAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:29:28.848Z",
+              "WhenOpened": "2025-01-06T15:14:20.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MedicalServiceService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\Services\\MedicalServiceService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\MedicalServiceService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\Services\\MedicalServiceService.cs*",
-              "RelativeToolTip": "BLL\\Services\\MedicalServiceService.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAyAAAAAAAAAA==",
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:51:38.494Z",
+              "WhenOpened": "2025-01-06T15:10:53.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACAAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:31:22.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\Services\\PatientService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\PatientService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\Services\\PatientService.cs",
-              "RelativeToolTip": "BLL\\Services\\PatientService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:50:53.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "PatientRepo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Repos\\PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Repos\\PatientRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\PatientRepo.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Repos\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Repos\\PatientRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\PatientRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T08:05:23.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "202501040826293_first.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040826293_first.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202501040826293_first.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040826293_first.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202501040826293_first.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:26:33.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MedicalService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\EF\\MedicalService.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\MedicalService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\EF\\MedicalService.cs",
-              "RelativeToolTip": "DAL\\EF\\MedicalService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:41:42.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\EF\\Patient.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Patient.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\EF\\Patient.cs",
-              "RelativeToolTip": "DAL\\EF\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:39:07.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "MedicalServiceRepo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Repos\\MedicalServiceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Repos\\MedicalServiceRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\MedicalServiceRepo.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Repos\\MedicalServiceRepo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Repos\\MedicalServiceRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\MedicalServiceRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T08:05:41.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\Services\\PatientService.cs",
+              "RelativeToolTip": "BLL\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:50:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Repo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Repos\\Repo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Repos\\Repo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Repos\\Repo.cs",
               "RelativeToolTip": "DAL\\Repos\\Repo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,102 +172,169 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PatientDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\DTOs\\PatientDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\PatientDTO.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\DTOs\\PatientDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\PatientDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "MedicalServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
+              "RelativeDocumentMoniker": "APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
+              "RelativeToolTip": "APICFwith3TierArchitecture\\Controllers\\MedicalServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:50:11.98Z",
+              "WhenOpened": "2025-01-04T08:29:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "APICFwith3TierArchitecture\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:31:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicalServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\Services\\MedicalServiceService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MedicalServiceService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\Services\\MedicalServiceService.cs",
+              "RelativeToolTip": "BLL\\Services\\MedicalServiceService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:51:38.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MedicalServiceDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\DTOs\\MedicalServiceDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\MedicalServiceDTO.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\DTOs\\MedicalServiceDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\MedicalServiceDTO.cs",
+              "Title": "202501040826293_first.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040826293_first.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501040826293_first.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040826293_first.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501040826293_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:26:33.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicalService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\EF\\MedicalService.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\MedicalService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\EF\\MedicalService.cs",
+              "RelativeToolTip": "DAL\\EF\\MedicalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:50:30.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T07:41:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\EF\\Patient.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Patient.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\EF\\Patient.cs",
+              "RelativeToolTip": "DAL\\EF\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:39:07.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "APICF3TierContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\EF\\APICF3TierContext.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\APICF3TierContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\EF\\APICF3TierContext.cs",
-              "RelativeToolTip": "DAL\\EF\\APICF3TierContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\DTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PatientDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\DTOs\\PatientDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:38:20.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T07:50:11.98Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "202501040748474_init.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040748474_init.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202501040748474_init.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040748474_init.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202501040748474_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MedicalServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\DTOs\\MedicalServiceDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\MedicalServiceDTO.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\DTOs\\MedicalServiceDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\MedicalServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:48:59.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T07:50:30.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "APICF3TierContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\EF\\APICF3TierContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\APICF3TierContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\EF\\APICF3TierContext.cs",
+              "RelativeToolTip": "DAL\\EF\\APICF3TierContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:48:13.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:36:48.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:36:10.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T07:38:20.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "202501040748474_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040748474_init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501040748474_init.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Migrations\\202501040748474_init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501040748474_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:48:59.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:48:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:36:48.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:36:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Web.config",
               "RelativeDocumentMoniker": "APICFwith3TierArchitecture\\Web.config",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MSystemApplication\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Web.config",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\Advanced_Programming_using.Net\\APICFwith3TierArchitecture\\APICFwith3TierArchitecture\\Web.config",
               "RelativeToolTip": "APICFwith3TierArchitecture\\Web.config",
               "ViewState": "AgIAABMAAAAAAAAAAAAAADwAAACnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

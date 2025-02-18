@@ -26,7 +26,7 @@ namespace APICFwith3TierArchitecture.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, "New Medical Service Information Created Successfully.");
         }
         [HttpPut]
-        [Route("api/services/update")]
+        [Route("api/services/update/{id}")]
         public HttpResponseMessage Update(MedicalServiceDTO m)
         {
             MedicalServiceService.Update(m);

@@ -1,4 +1,5 @@
 ﻿using DAL.EF;
+using DAL.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    public class PatientRepo :  Repo
+    internal class PatientRepo : Repo, IRepo<Patient, int>
     {
         public void Create(Patient p)
         {

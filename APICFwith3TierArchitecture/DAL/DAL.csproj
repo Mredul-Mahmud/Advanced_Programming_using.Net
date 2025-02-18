@@ -52,9 +52,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DataAccess.cs" />
     <Compile Include="EF\APICF3TierContext.cs" />
     <Compile Include="EF\MedicalService.cs" />
     <Compile Include="EF\Patient.cs" />
+    <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202501040748474_init.cs" />
     <Compile Include="Migrations\202501040748474_init.Designer.cs">
       <DependentUpon>202501040748474_init.cs</DependentUpon>
